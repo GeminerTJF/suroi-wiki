@@ -1,3 +1,4 @@
+<Stub />
 <Event />
 
 The **Large Pumpkin** is an [Obstacle](/obstacles) that only spawns on the Harvest and Halloween Maps.
