@@ -16,5 +16,7 @@ The large pumpkin drops loot similar to crates, such as ammo and guns.
 
 # History
 
-- [v#.##.#](need to find this)
+- [v0.20.0](https://github.com/HasangerGames/suroi/releases/tag/v0.20.0)
   - Added
+- [v0.21.5](https://github.com/HasangerGames/suroi/releases/tag/v0.21.5)
+  - Removed with phasing-out of Harvest mode
